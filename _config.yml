@@ -1,7 +1,7 @@
 name: AdaTest
 favicon: null
-layout_spectrum: 0.38213
-typography_spectrum: 0.64183
+layout_spectrum: 1
+typography_spectrum: 0.9174
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.1875
-  lightness: 0.1875
-  saturation: 0.0625
-  rhythmicContrast: 0.5
+  lightness: 0.75
+  saturation: 0.4375
+  rhythmicContrast: 1
 purpose: []
